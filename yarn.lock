@@ -354,9 +354,9 @@ escope@^3.6.0:
     esrecurse "^4.1.0"
     estraverse "^4.1.1"
 
-eslint-config-1stdibs@^3.3.0:
-  version "3.3.0"
-  resolved "https://registry.npmjs.org/eslint-config-1stdibs/-/eslint-config-1stdibs-3.3.0.tgz#415f29c488de017344cb08745948a182d081cc0a"
+eslint-config-1stdibs@^3.3.1:
+  version "3.3.1"
+  resolved "https://registry.npmjs.org/eslint-config-1stdibs/-/eslint-config-1stdibs-3.3.1.tgz#53fdfe07b76db6efbad9cf91dbc5ff0bbbf50ef2"
 
 eslint-plugin-flowtype@^2.35.1:
   version "2.37.0"
