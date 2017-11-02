@@ -358,6 +358,12 @@ eslint-config-1stdibs@^3.3.1:
   version "3.3.1"
   resolved "https://registry.npmjs.org/eslint-config-1stdibs/-/eslint-config-1stdibs-3.3.1.tgz#53fdfe07b76db6efbad9cf91dbc5ff0bbbf50ef2"
 
+eslint-config-prettier@^2.6.0:
+  version "2.6.0"
+  resolved "https://registry.yarnpkg.com/eslint-config-prettier/-/eslint-config-prettier-2.6.0.tgz#f21db0ebb438ad678fb98946097c4bb198befccc"
+  dependencies:
+    get-stdin "^5.0.1"
+
 eslint-plugin-flowtype@^2.35.1:
   version "2.37.0"
   resolved "https://registry.npmjs.org/eslint-plugin-flowtype/-/eslint-plugin-flowtype-2.37.0.tgz#2b09694deea6efdd8354eccd328db134b2d8b6d5"
@@ -510,6 +516,10 @@ generate-object-property@^1.1.0:
   resolved "https://registry.npmjs.org/generate-object-property/-/generate-object-property-1.2.0.tgz#9c0e1c40308ce804f4783618b937fa88f99d50d0"
   dependencies:
     is-property "^1.0.0"
+
+get-stdin@^5.0.1:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/get-stdin/-/get-stdin-5.0.1.tgz#122e161591e21ff4c52530305693f20e6393a398"
 
 glob@^5.0.15:
   version "5.0.15"

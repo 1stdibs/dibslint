@@ -4,6 +4,9 @@ module.exports = {
 		"1stdibs/jasmine",
 		"1stdibs/node",
 		"1stdibs/es6",
-		"1stdibs/react"
+		"1stdibs/react",
+		"prettier",
+		"prettier/flowtype",
+		"prettier/react"
 	]
 };
